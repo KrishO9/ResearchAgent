@@ -1,0 +1,51 @@
+2025-03-26 22:04:35,886 - summarizer - INFO - Initialized summarizer with model: meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:40,061 - summarizer - INFO - Generating summary for 2503.16547 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:42,142 - summarizer - INFO - Generating summary for 2503.16788 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:43,119 - summarizer - INFO - Generating summary for 2503.16724 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:52,690 - summarizer - INFO - Generating summary for 2503.16905 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:52,808 - summarizer - INFO - Generating summary for 2503.16874 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:55,529 - summarizer - INFO - Generating summary for 2503.16743 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:56,159 - summarizer - INFO - Generating summary for 2503.16914 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:04:58,656 - summarizer - INFO - Generating summary for 2503.16938 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:00,466 - summarizer - INFO - Generating summary for 2503.17034 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:02,310 - summarizer - INFO - Generating summary for 2503.16978 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:05,342 - summarizer - INFO - Generating summary for 2503.17046 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:05,388 - summarizer - INFO - Generating summary for 2503.16953 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:08,657 - summarizer - INFO - Generating summary for 2503.17055 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:11,490 - summarizer - INFO - Generating summary for 2503.17039 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:11,531 - summarizer - INFO - Generating summary for 2503.17061 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:15,705 - summarizer - INFO - Generating summary for 2503.17069 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:15,829 - summarizer - INFO - Generating summary for 2503.17089 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:18,176 - summarizer - INFO - Generating summary for 2503.17070 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:22,429 - summarizer - INFO - Generating summary for 2503.17125 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:22,737 - summarizer - INFO - Generating summary for 2503.17132 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:22,767 - summarizer - INFO - Generating summary for 2503.17095 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:27,071 - summarizer - INFO - Generating summary for 2503.17085 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:27,926 - summarizer - INFO - Generating summary for 2503.17213 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:31,716 - summarizer - INFO - Generating summary for 2503.17167 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:33,382 - summarizer - INFO - Generating summary for 2503.17224 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:37,725 - summarizer - INFO - Generating summary for 2503.17195 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:37,947 - summarizer - INFO - Generating summary for 2503.17237 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:40,445 - summarizer - INFO - Generating summary for 2503.17239 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:41,962 - summarizer - INFO - Generating summary for 2503.17229 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:44,808 - summarizer - INFO - Generating summary for 2503.17247 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:46,040 - summarizer - INFO - Generating summary for 2503.17251 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:48,724 - summarizer - INFO - Generating summary for 2503.17299 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:48,907 - summarizer - INFO - Generating summary for 2503.17309 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:50,758 - summarizer - INFO - Generating summary for 2503.17336 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:52,520 - summarizer - INFO - Generating summary for 2503.17340 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:05:59,280 - summarizer - INFO - Generating summary for A template for the arxiv style using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:01,042 - summarizer - INFO - Generating summary for 2503.17354 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:01,770 - summarizer - INFO - Generating summary for 2503.17353 using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:02,991 - summarizer - INFO - Generating summary for A Learnability Analysis on Neuro-Symbolic Learning using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:04,730 - summarizer - INFO - Generating summary for Automating Adjudication of Cardiovascular Events Using Large Language Models using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:07,750 - summarizer - INFO - Generating summary for A_GUIDE_TO_BAYESIAN_NETWORKS_SOFTWARE_PACKAGES_FOR_STRUCTURAL_AND_PARAMETER_LEARNING___2025_EDITION using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:11,562 - summarizer - INFO - Generating summary for CVE-Bench_ A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:11,899 - summarizer - INFO - Generating summary for Capturing Individual Human Preferences with Reward Features using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:15,564 - summarizer - INFO - Generating summary for D2Fusion_ Dual-domain Fusion with Feature Superposition for Deepfake Detection using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:20,901 - summarizer - INFO - Generating summary for Paper Title (use style_ paper title) using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:21,317 - summarizer - INFO - Generating summary for Microsoft Word - ecdai ver 1.1_preprint using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:22,077 - summarizer - INFO - Generating summary for LLMs Love Python_ A Study of LLMs' Bias for Programming Languages and Libraries using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:22,549 - summarizer - INFO - Generating summary for In-House Evaluation Is Not Enough_ Towards Robust Third-Party Flaw Disclosure for General-Purpose AI using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:24,777 - summarizer - INFO - Generating summary for The CASTLE 2024 Dataset_Advancing the Art of Multimodal Understanding using meta-llama/llama-3.3-70b-instruct:free
+2025-03-26 22:06:29,765 - summarizer - INFO - Generating summary for Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models using meta-llama/llama-3.3-70b-instruct:free

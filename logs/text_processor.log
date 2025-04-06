@@ -1,0 +1,100 @@
+2025-03-26 22:04:35,898 - text_processor - WARNING - Only abstract found for paper: 2503.16547
+2025-03-26 22:04:35,931 - text_processor - WARNING - Only abstract found for paper: 2503.16743
+2025-03-26 22:04:35,936 - text_processor - INFO - Split text into 45 chunks
+2025-03-26 22:04:35,944 - text_processor - WARNING - Only abstract found for paper: 2503.16724
+2025-03-26 22:04:35,996 - text_processor - WARNING - Only abstract found for paper: 2503.16788
+2025-03-26 22:04:36,007 - text_processor - INFO - Split text into 203 chunks
+2025-03-26 22:04:36,058 - text_processor - INFO - Split text into 89 chunks
+2025-03-26 22:04:36,069 - text_processor - INFO - Split text into 76 chunks
+2025-03-26 22:04:42,190 - text_processor - WARNING - Only abstract found for paper: 2503.16874
+2025-03-26 22:04:42,217 - text_processor - INFO - Split text into 103 chunks
+2025-03-26 22:04:43,416 - text_processor - WARNING - Only abstract found for paper: 2503.16905
+2025-03-26 22:04:43,449 - text_processor - INFO - Split text into 81 chunks
+2025-03-26 22:04:43,939 - text_processor - WARNING - Only abstract found for paper: 2503.16914
+2025-03-26 22:04:43,967 - text_processor - INFO - Split text into 107 chunks
+2025-03-26 22:04:54,215 - text_processor - WARNING - Only abstract found for paper: 2503.16938
+2025-03-26 22:04:54,230 - text_processor - INFO - Split text into 44 chunks
+2025-03-26 22:04:54,780 - text_processor - WARNING - Only abstract found for paper: 2503.16953
+2025-03-26 22:04:54,853 - text_processor - INFO - Split text into 107 chunks
+2025-03-26 22:04:56,535 - text_processor - WARNING - Only abstract found for paper: 2503.16978
+2025-03-26 22:04:56,552 - text_processor - INFO - Split text into 53 chunks
+2025-03-26 22:04:57,041 - text_processor - WARNING - Only abstract found for paper: 2503.17034
+2025-03-26 22:04:57,050 - text_processor - INFO - Split text into 32 chunks
+2025-03-26 22:04:59,466 - text_processor - WARNING - Only abstract found for paper: 2503.17039
+2025-03-26 22:04:59,509 - text_processor - INFO - Split text into 115 chunks
+2025-03-26 22:05:01,233 - text_processor - WARNING - Only abstract found for paper: 2503.17046
+2025-03-26 22:05:01,258 - text_processor - INFO - Split text into 46 chunks
+2025-03-26 22:05:03,621 - text_processor - WARNING - Only abstract found for paper: 2503.17055
+2025-03-26 22:05:03,642 - text_processor - INFO - Split text into 47 chunks
+2025-03-26 22:05:06,433 - text_processor - WARNING - Only abstract found for paper: 2503.17061
+2025-03-26 22:05:06,465 - text_processor - INFO - Split text into 49 chunks
+2025-03-26 22:05:06,695 - text_processor - WARNING - Only abstract found for paper: 2503.17069
+2025-03-26 22:05:06,741 - text_processor - INFO - Split text into 83 chunks
+2025-03-26 22:05:09,454 - text_processor - WARNING - Only abstract found for paper: 2503.17070
+2025-03-26 22:05:09,486 - text_processor - INFO - Split text into 86 chunks
+2025-03-26 22:05:12,318 - text_processor - WARNING - Only abstract found for paper: 2503.17085
+2025-03-26 22:05:12,392 - text_processor - INFO - Split text into 144 chunks
+2025-03-26 22:05:12,413 - text_processor - WARNING - Only abstract found for paper: 2503.17089
+2025-03-26 22:05:12,435 - text_processor - INFO - Split text into 29 chunks
+2025-03-26 22:05:16,513 - text_processor - WARNING - Only abstract found for paper: 2503.17095
+2025-03-26 22:05:16,525 - text_processor - INFO - Split text into 59 chunks
+2025-03-26 22:05:16,645 - text_processor - WARNING - Only abstract found for paper: 2503.17125
+2025-03-26 22:05:16,660 - text_processor - INFO - Split text into 54 chunks
+2025-03-26 22:05:18,982 - text_processor - WARNING - Only abstract found for paper: 2503.17132
+2025-03-26 22:05:19,003 - text_processor - INFO - Split text into 38 chunks
+2025-03-26 22:05:23,333 - text_processor - WARNING - Only abstract found for paper: 2503.17167
+2025-03-26 22:05:23,355 - text_processor - INFO - Split text into 80 chunks
+2025-03-26 22:05:23,750 - text_processor - WARNING - Only abstract found for paper: 2503.17195
+2025-03-26 22:05:23,825 - text_processor - INFO - Split text into 138 chunks
+2025-03-26 22:05:24,240 - text_processor - WARNING - Only abstract found for paper: 2503.17213
+2025-03-26 22:05:24,259 - text_processor - INFO - Split text into 35 chunks
+2025-03-26 22:05:28,082 - text_processor - WARNING - Only abstract found for paper: 2503.17224
+2025-03-26 22:05:28,100 - text_processor - INFO - Split text into 54 chunks
+2025-03-26 22:05:29,265 - text_processor - WARNING - Only abstract found for paper: 2503.17229
+2025-03-26 22:05:29,308 - text_processor - INFO - Split text into 124 chunks
+2025-03-26 22:05:32,534 - text_processor - WARNING - Only abstract found for paper: 2503.17237
+2025-03-26 22:05:32,540 - text_processor - INFO - Split text into 52 chunks
+2025-03-26 22:05:34,172 - text_processor - WARNING - Only abstract found for paper: 2503.17239
+2025-03-26 22:05:34,192 - text_processor - INFO - Split text into 59 chunks
+2025-03-26 22:05:38,587 - text_processor - WARNING - Only abstract found for paper: 2503.17247
+2025-03-26 22:05:38,610 - text_processor - INFO - Split text into 63 chunks
+2025-03-26 22:05:39,490 - text_processor - WARNING - Only abstract found for paper: 2503.17251
+2025-03-26 22:05:39,508 - text_processor - INFO - Split text into 63 chunks
+2025-03-26 22:05:41,290 - text_processor - WARNING - Only abstract found for paper: 2503.17299
+2025-03-26 22:05:41,309 - text_processor - INFO - Split text into 69 chunks
+2025-03-26 22:05:43,090 - text_processor - WARNING - Only abstract found for paper: 2503.17309
+2025-03-26 22:05:43,115 - text_processor - INFO - Split text into 56 chunks
+2025-03-26 22:05:45,675 - text_processor - WARNING - Only abstract found for paper: 2503.17336
+2025-03-26 22:05:45,686 - text_processor - INFO - Split text into 47 chunks
+2025-03-26 22:05:46,819 - text_processor - WARNING - Only abstract found for paper: 2503.17340
+2025-03-26 22:05:46,827 - text_processor - INFO - Split text into 53 chunks
+2025-03-26 22:05:49,570 - text_processor - WARNING - Only abstract found for paper: 2503.17353
+2025-03-26 22:05:49,619 - text_processor - INFO - Split text into 117 chunks
+2025-03-26 22:05:49,980 - text_processor - WARNING - Only abstract found for paper: 2503.17354
+2025-03-26 22:05:50,044 - text_processor - INFO - Split text into 112 chunks
+2025-03-26 22:05:51,541 - text_processor - WARNING - Only abstract found for paper: A Learnability Analysis on Neuro-Symbolic Learning
+2025-03-26 22:05:51,572 - text_processor - INFO - Split text into 107 chunks
+2025-03-26 22:05:53,324 - text_processor - WARNING - Only abstract found for paper: A template for the arxiv style
+2025-03-26 22:05:53,346 - text_processor - INFO - Split text into 56 chunks
+2025-03-26 22:06:00,498 - text_processor - WARNING - Only abstract found for paper: Automating Adjudication of Cardiovascular Events Using Large Language Models
+2025-03-26 22:06:00,529 - text_processor - INFO - Split text into 44 chunks
+2025-03-26 22:06:01,904 - text_processor - WARNING - Only abstract found for paper: A_GUIDE_TO_BAYESIAN_NETWORKS_SOFTWARE_PACKAGES_FOR_STRUCTURAL_AND_PARAMETER_LEARNING___2025_EDITION
+2025-03-26 22:06:01,923 - text_processor - INFO - Split text into 58 chunks
+2025-03-26 22:06:02,861 - text_processor - WARNING - Only abstract found for paper: Capturing Individual Human Preferences with Reward Features
+2025-03-26 22:06:02,876 - text_processor - INFO - Split text into 93 chunks
+2025-03-26 22:06:03,808 - text_processor - WARNING - Only abstract found for paper: CVE-Bench_ A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities
+2025-03-26 22:06:03,836 - text_processor - INFO - Split text into 75 chunks
+2025-03-26 22:06:05,525 - text_processor - WARNING - Only abstract found for paper: D2Fusion_ Dual-domain Fusion with Feature Superposition for Deepfake Detection
+2025-03-26 22:06:05,550 - text_processor - INFO - Split text into 89 chunks
+2025-03-26 22:06:08,556 - text_processor - WARNING - Only abstract found for paper: In-House Evaluation Is Not Enough_ Towards Robust Third-Party Flaw Disclosure for General-Purpose AI
+2025-03-26 22:06:08,624 - text_processor - INFO - Split text into 154 chunks
+2025-03-26 22:06:12,365 - text_processor - WARNING - Only abstract found for paper: LLMs Love Python_ A Study of LLMs' Bias for Programming Languages and Libraries
+2025-03-26 22:06:12,410 - text_processor - INFO - Split text into 98 chunks
+2025-03-26 22:06:13,257 - text_processor - WARNING - Only abstract found for paper: Microsoft Word - ecdai ver 1.1_preprint
+2025-03-26 22:06:13,283 - text_processor - INFO - Split text into 79 chunks
+2025-03-26 22:06:16,387 - text_processor - WARNING - Only abstract found for paper: Paper Title (use style_ paper title)
+2025-03-26 22:06:16,398 - text_processor - INFO - Split text into 40 chunks
+2025-03-26 22:06:21,928 - text_processor - WARNING - Only abstract found for paper: The CASTLE 2024 Dataset_Advancing the Art of Multimodal Understanding
+2025-03-26 22:06:21,946 - text_processor - INFO - Split text into 47 chunks
+2025-03-26 22:06:22,843 - text_processor - WARNING - Only abstract found for paper: Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models
+2025-03-26 22:06:22,864 - text_processor - INFO - Split text into 101 chunks
